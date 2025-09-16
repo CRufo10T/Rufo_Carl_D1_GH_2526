@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: antiquewhite;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+label{
+    color: black;
+    padding: 8px;
+    display: block;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 500px;
+}
+body{
+    background-color: peru;
+}
+input{
+    display: block;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+button{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.output{
+    margin-left: 450px;
+    margin-right: 450px;
+}
